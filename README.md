@@ -24,7 +24,7 @@ Built for red teamers, bug bounty hunters, and OSINT ops.
 
 ```bash
 git clone https://github.com/MarcUrbano/URL-Extract.git
-cd URLoot
+cd URL-Extract
 pip install -r requirements.txt
 python3 url_extract.py https://hackerone.com --depth 2 --match=assets --ext=svg
 ```
