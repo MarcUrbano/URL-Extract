@@ -23,7 +23,7 @@ Built for red teamers, bug bounty hunters, and OSINT ops.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/MarcUrbano/URLoot.git
+git clone https://github.com/MarcUrbano/URL-Extract.git
 cd URLoot
 pip install -r requirements.txt
 python3 url_extract.py https://hackerone.com --depth 2 --match=assets --ext=svg
