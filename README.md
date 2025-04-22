@@ -30,7 +30,7 @@ python3 url_extract.py https://hackerone.com --depth 2 --match=assets --ext=svg
 ```
 
 ## Samples
-[Screencast_20250423_053113.webm](https://github.com/user-attachments/assets/ad2565a4-d491-4791-ab23-f9d0cb03aec2)
+![poc](https://github.com/user-attachments/assets/4bdf93bd-ca98-4a20-b6d3-9480e1ae8e0f)
 ![image](https://github.com/user-attachments/assets/918d451a-ea1b-4f48-9182-49cc1e3c776e)
 ![image](https://github.com/user-attachments/assets/ec7af43e-611e-4293-8b0d-21621353e1d5)
 
